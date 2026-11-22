@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tools/
+.qoder/
+.vite/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
